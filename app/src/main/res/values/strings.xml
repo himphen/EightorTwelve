@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">8罐定12罐抵D</string>
+    <string name="ui_okay">確定</string>
+    <string name="ui_cancel">取消</string>
+    <string name="ui_share">分享</string>
+    <string name="ui_error">錯誤</string>
+
+    <string name="changelog_full_title">更新日誌</string>
+    <string name="changelog_title">有什麼更新？</string>
+    <string name="changelog_ok_button">好的</string>
+    <string name="changelog_show_full">更多</string>
+    <string name="title_activity_rate_us">為我們評分</string>
+
+</resources>
